@@ -6,7 +6,7 @@ Most of this README.md were drafted with the assistance of ChatGPT and subsequen
 This repository contains MATLAB code, data, and documentation for a gait analysis project. The goal is to estimate and analyze gait parameters from recorded motion data.
 
 ## 📂 Project Structure
-├── ECE2111 Final Project.pdf # Final project report and documentation
+├── Gait Analysis Report.pdf # Project report and documentation
 
 ├── estimateGait.m # Main MATLAB function for gait estimation
 
